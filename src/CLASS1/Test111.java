@@ -6,9 +6,6 @@ public static void main(String[] args) {
 
 System.setProperty("Webdriver.chrome.driver", "chromedriver.exe");
 
-WebDriver driver = new Chromedriver();
-
-
-
+WebDriver driver = new Chromedriver();..............
 }
 }
